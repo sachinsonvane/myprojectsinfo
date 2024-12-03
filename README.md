@@ -26,7 +26,7 @@ React Native: Run on Android and iOS devices.
 Language : Javascript
 ## POC Projects
 ### Olympus: Assets Managements(Offline/Online). 
-This Android native mobile application. This application integrated with WSIC server rest APIs. This application developed for the assests managements, get the all assets device details, update and delete
+This React native hybird mobile application. This application integrated with WSIC server rest APIs. This application developed for the assests managements, get the all assets device details, update and delete
 device details.
 Responsibilities: Hybird mobile application developer responsible for project business logic, desgin UI and developement, analysts, requirements gathering, unit testing, documentation. Design, build, and maintain high performance, reusable, and reliable code. Identify and correct bottlenecks and fix bugs.
 Team Size: 6
@@ -39,11 +39,45 @@ Team Size: 3
 React Native: Run on Android and iOS devices.
 Language : Javascript
 ### JLP [Client POC]
-This react native hybrid mobile application. This application integrated with WSIC Server APIs. This application used for the sync device detail to the server on different device mode like application in background, foreground and when app killed. There using background service and alaram manager with broadcost receiver. Manage as per android version. 
+This Android native mobile application. This application integrated with WSIC Server APIs. This application used for the sync device detail to the server on different device mode like application in background, foreground and when app killed. There using background service and alaram manager with broadcost receiver. Manage as per android version. 
 Responsibilities: Android Developer responsible for project business logic, desgin UI and developement, analysts, requirements gathering, unit testing, documentation. Design, build, and maintain high performance, reusable, and reliable Java code. Identify and correct bottlenecks and fix bugs.
 Team Size: 4
 Design Pattern : MVVM 
 Android: 9 and above version.
 Language : Java
+## Intuitive Workspace [Internal Project]
+Intuitive Workspace is Hybrid mobile application. This application integrated with web services. This application develops in Reat Native technology. Following the feature of application features: Hot Desk booking, Meeting room booking[Create,Edit,Cancel,Extend], Slot Booking [Create,Edit,Cancel,Extend], Parking Booking [Create,Cancel,Extend]
+Login, User Profile, Quick Desk booking, Location, Calendar Events,Calleages.
+Responsibilities: Hybird mobile application developer responsible for project business logic, desgin UI and developement, analysts, requirements gathering, unit testing, documentation. Design, build, and maintain high performance, reusable, and reliable code. Identify and correct bottlenecks and fix bugs.
+Role Description: An Hybird mobile application can be a designer and developer of an Hybird mobile application application. Deliver POC version release on time. Learn new technologies update my skills and support to team.
+Team Size: 3
+##  BACK TO OFFICE(HEALTH COV-ER) 3.7 [Internal Project]
+This Android native mobile application. This application integrated with Azure APIs.Wipro Back to Office solution based on Wipro Smart i-Connect™ integrates various systems smoothly
+to acquire data and enables monitoring and management with minimal or touch less human interventions.Emplayee a) Auto update Android and IOS b) Questionary Changes. c) Swassa Integration d) Chatbot e) Fireabse push notification.
+Responsibilities: Android Developer responsible for project business logic, desgin UI and developement, analysts, requirements gathering, unit testing, documentation. Design, build, and maintain high performance, reusable, and reliable Java code. Identify and correct bottlenecks and fix bugs.
+Team Size: 25
+Design Pattern : MVVM 
+Android: 8 and above version.
+Language : Java
+##  POC Projects
+### Thermal Scan
+This Android native mobile application. This application developed for the human body temperature capture through thermal camera and shown details.
+Responsibilities: Android Developer responsible for project business logic, desgin UI and developement, analysts, requirements gathering, unit testing, documentation. Design, build, and maintain high performance, reusable, and reliable Java code. Identify and correct bottlenecks and fix bugs.
+Team Size: 2
+Android: 7 and above version.
+Language : Java
+### Swaasa
+This Android native mobile application. This application integrated with third partry library. This application developed for the Capture throat sound and get medial report.
+Responsibilities: Android Developer responsible for project business logic, desgin UI and developement, analysts, requirements gathering, unit testing, documentation. Design, build, and maintain high performance, reusable, and reliable Java code. Identify and correct bottlenecks and fix bugs.
+Team Size: 2
+Android: 7 and above version.
+Language : Java
+### WiscMobileAgent
+This Google Flutter hybrid mobile application. This application integrated with WSIC Server APIs. This application used for the send device of Gyroscope, Sensors and device details to server through. 
+Responsibilities: Hybird mobile application developer responsible for project business logic, desgin UI and developement, analysts, requirements gathering, unit testing, documentation. Design, build, and maintain high performance, reusable, and reliable code. Identify and correct bottlenecks and fix bugs.
+Team Size: 3
+Flutter: Run on Android and iOS devices
+Language : Dart
+
 
 
