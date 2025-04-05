@@ -3,6 +3,7 @@
 This Google Flutter hybrid mobile application. This application integrated with Local Server APIs. This application used for the Zurich Insurence related services. Hybird mobile application developer responsible for project business logic, desgin UI and developement, analysts, requirements gathering, unit testing, documentation. Design, build, and maintain high performance, reusable, and reliable code. Identify and correct bottlenecks and fix bugs.
 * Build app Azur using CI/CD.
 * Team Size: 3
+* Design Pattern: Clean Architecture
 * Flutter: Run on  iOS iPad.
 * Language : Dart
 
