@@ -1,4 +1,12 @@
 # Project Work on
+
+### Jiobp NOC Mobile App [Jiobp, DAKC]
+This Google Flutter hybrid mobile application. This application integrated with Jiobp NOC server. This application used for the visualize,access data through centerlized Jiobp NOC server APIs using different types of users. There data visualize resional, national, state and RO levels, also user filter data and drill-down particular RO levels. Hybird mobile application developer responsible for project business logic, desgin UI and developement, analysts, requirements gathering, unit testing, documentation. Design, build, and maintain high performance, reusable, and reliable code. Identify and correct bottlenecks and fix bugs. 
+* Team Size: 2
+* Design Pattern: Clean Architecture with MVVM
+* Flutter: Run on  Android and iOS devices.
+* Language : Dart
+
 ### SIT Mobile App [Zurich Insurance Services]
 This Google Flutter hybrid mobile application. This application integrated with Local Server endpoints using Socket. This application used for the Zurich Insurence related services. Hybird mobile application developer responsible for project business logic, desgin UI and developement, analysts, requirements gathering, unit testing, documentation. Design, build, and maintain high performance, reusable, and reliable code. Identify and correct bottlenecks and fix bugs. Okta Authentication,Dashboard,Assignments, Risk Regards,RIA etc.
 * Build app Azur using CI/CD.
