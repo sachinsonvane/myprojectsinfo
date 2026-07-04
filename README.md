@@ -1,6 +1,6 @@
 # Project Work on
 
-## CatalystStoreInsights - [CatalystBrands]
+## CatalystStoreInsights - [CatalystBrands Services]
 Currently working on CatalystStoreInsights react native hybrid mobile application. This application integrated amazon rest APIs. 
 Catalyst Store Insights is a powerful analytics platform designed to help brands monitor, analyze, and optimize store performance in real time. Built for the Catalyst ecosystem, this application enables businesses to gain actionable insights across multiple retail brands, helping drive smarter decision-making and improved operational efficiency.
 * Team Size: 1
