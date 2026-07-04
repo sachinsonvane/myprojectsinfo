@@ -31,6 +31,8 @@ Role Description: An Android Develop can be a designer and developer of an Andro
 * Android: 12 and above version.
 * Design Pattern : MVVM with Clean Architecture. 
 * Language : kotlin.
+* iOS : 11 and above version.
+* Language:Swift
 
 ## ScannerApp - [Chevron - Tracktrace projects]
 This Android native mobile application. Intergraed with azure rest APIs. This application developed for the CT60 Honeywell hand hold scanner Adnroid Device. This application work on plant side within particular network. This application used for the Inbound and Outbound operations in plant side. There inbound functionalit like detect management,product replacement. Outbound functionality list active bataches data.
