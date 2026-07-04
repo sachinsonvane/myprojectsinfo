@@ -1,5 +1,13 @@
 # Project Work on
 
+## CatalystStoreInsights - [CatalystBrands]
+Currently working on CatalystStoreInsights react native hybrid mobile application. This application integrated amazon rest APIs. 
+Catalyst Store Insights is a powerful analytics platform designed to help brands monitor, analyze, and optimize store performance in real time. Built for the Catalyst ecosystem, this application enables businesses to gain actionable insights across multiple retail brands, helping drive smarter decision-making and improved operational efficiency.
+* Team Size: 1
+* React Native: Run on Android and iOS devices.
+* Language : JavaScript, typescript etc
+* https://play.google.com/store/apps/details?id=com.catalyststoreinsights&hl=en_IN
+  
 ### Jiobp NOC Mobile App [Jiobp, DAKC]
 This Google Flutter hybrid mobile application. This application integrated with Jiobp NOC server. This application used for the visualize,access data through centerlized Jiobp NOC server APIs using different types of users. There data visualize resional, national, state and RO levels, also user filter data and drill-down particular RO levels. Hybird mobile application developer responsible for project business logic, desgin UI and developement, analysts, requirements gathering, unit testing, documentation. Design, build, and maintain high performance, reusable, and reliable code. Identify and correct bottlenecks and fix bugs. 
 * Team Size: 2
