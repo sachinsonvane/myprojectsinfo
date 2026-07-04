@@ -41,6 +41,8 @@ Responsibilities: Android Developer responsible for project business logic, desg
 * Design Pattern : MVVM with Clean Architecture. 
 * Android: 8 and above version.
 * Language : kotlin and Java
+* iOS : 12 and above version.
+* Language:Swift
 
 ## Mobile App - [Chevron - Tracktrace projects]
 This react native hybrid mobile application. This application integrated with OKTA third party library and auzre rest APIs. This application developed for the Chevron employees for the specific plant side or others. There OKTA used for the authentications, OTP on email, sms etc. Operation can scan product Qr code get details and manage the histroy every records.  
@@ -70,6 +72,8 @@ Responsibilities: Android Developer responsible for project business logic, desg
 * Design Pattern : MVVM 
 * Android: 9 and above version.
 * Language : Java
+* iOS : 11 and above version.
+* Language:Swift
 ## Intuitive Workspace [Internal Project]
 Intuitive Workspace is Hybrid mobile application. This application integrated with web services. This application develops in Reat Native technology. Following the feature of application features: Hot Desk booking, Meeting room booking[Create,Edit,Cancel,Extend], Slot Booking [Create,Edit,Cancel,Extend], Parking Booking [Create,Cancel,Extend]
 Login, User Profile, Quick Desk booking, Location, Calendar Events,Calleages.
@@ -101,6 +105,8 @@ Responsibilities: Android Developer responsible for project business logic, desg
 * Team Size: 1
 * Android: 7 and above version.
 * Language : Java
+* iOS : 10 and above version.
+* Language:Swift
 ### WiscMobileAgent
 This Google Flutter hybrid mobile application. This application integrated with WSIC Server APIs. This application used for the send device of Gyroscope, Sensors and device details to server through. 
 Responsibilities: Hybird mobile application developer responsible for project business logic, desgin UI and developement, analysts, requirements gathering, unit testing, documentation. Design, build, and maintain high performance, reusable, and reliable code. Identify and correct bottlenecks and fix bugs.
