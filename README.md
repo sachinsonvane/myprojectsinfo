@@ -54,6 +54,8 @@ Responsibilities: Hybird mobile application developer responsible for project bu
 * React Native: Run on Android and iOS devices.
 * Language : Javascript
 * https://play.google.com/store/apps/details?id=com.chevron.trackntrace.scanner
+* iOS : App Publish Enterprise Level.
+  
 ## POC Projects
 ### Olympus: Assets Managements(Offline/Online). 
 This React native hybird mobile application. This application integrated with WSIC server rest APIs. This application developed for the assests managements, get the all assets device details, update and delete
@@ -62,12 +64,14 @@ Responsibilities: Hybird mobile application developer responsible for project bu
 * Team Size: 2
 * React Native: Run on Android and iOS devices.
 * Language : Javascript
+  
 ### SVG: Seat Selection for Desk Booking.
 This react native hybrid mobile application. This application integrated with Azure APIs. This application developed for the desk booking thorugh SVG seat selection. As per location selection SVG image shown on webview. All SVG edit modification through javascript. There used injection for the communication between webview and react native. 
 Responsibilities: Hybird mobile application developer responsible for project business logic, desgin UI and developement, analysts, requirements gathering, unit testing, documentation. Design, build, and maintain high performance, reusable, and reliable code. Identify and correct bottlenecks and fix bugs.
 * Team Size: 2
 * React Native: Run on Android and iOS devices.
 * Language : Javascript
+  
 ### JLP [Client POC]
 This Android native mobile application. This application integrated with WSIC Server APIs. This application used for the sync device detail to the server on different device mode like application in background, foreground and when app killed. There using background service and alaram manager with broadcost receiver. Manage as per android version. 
 Responsibilities: Android Developer responsible for project business logic, desgin UI and developement, analysts, requirements gathering, unit testing, documentation. Design, build, and maintain high performance, reusable, and reliable Java code. Identify and correct bottlenecks and fix bugs.
@@ -77,6 +81,7 @@ Responsibilities: Android Developer responsible for project business logic, desg
 * Language : Java
 * iOS : 11 and above version.
 * Language:Swift
+  
 ## Intuitive Workspace [Internal Project]
 Intuitive Workspace is Hybrid mobile application. This application integrated with web services. This application develops in Reat Native technology. Following the feature of application features: Hot Desk booking, Meeting room booking[Create,Edit,Cancel,Extend], Slot Booking [Create,Edit,Cancel,Extend], Parking Booking [Create,Cancel,Extend]
 Login, User Profile, Quick Desk booking, Location, Calendar Events,Calleages.
@@ -85,6 +90,7 @@ Role Description: An Hybird mobile application can be a designer and developer o
 * Team Size: 3
 * React Native: Run on Android and iOS devices.
 * Language : Javascript
+  
 ##  BACK TO OFFICE(HEALTH COV-ER) 3.7 [Internal Project]
 This Android native mobile application. This application integrated with Azure APIs.Wipro Back to Office solution based on Wipro Smart i-Connect™ integrates various systems smoothly
 to acquire data and enables monitoring and management with minimal or touch less human interventions.Emplayee a) Auto update Android and IOS b) Questionary Changes. c) Swassa Integration d) Chatbot e) Fireabse push notification.
@@ -95,6 +101,7 @@ Responsibilities: Android Developer responsible for project business logic, desg
 * Language : Java
 * https://play.google.com/store/apps/details?id=com.wipro.bto.project
 * https://play.google.com/store/apps/details?id=com.wipro.whrss.project
+  
 ##  POC Projects
 ### Thermal Scan
 This Android native mobile application. This application developed for the human body temperature capture through thermal camera and shown details.
@@ -102,6 +109,7 @@ Responsibilities: Android Developer responsible for project business logic, desg
 * Team Size: 1
 * Android: 7 and above version.
 * Language : Java
+  
 ### Swaasa
 This Android native mobile application. This application integrated with third partry library. This application developed for the Capture throat sound and get medial report.
 Responsibilities: Android Developer responsible for project business logic, desgin UI and developement, analysts, requirements gathering, unit testing, documentation. Design, build, and maintain high performance, reusable, and reliable Java code. Identify and correct bottlenecks and fix bugs.
@@ -110,6 +118,7 @@ Responsibilities: Android Developer responsible for project business logic, desg
 * Language : Java
 * iOS : 10 and above version.
 * Language:Swift
+  
 ### WiscMobileAgent
 This Google Flutter hybrid mobile application. This application integrated with WSIC Server APIs. This application used for the send device of Gyroscope, Sensors and device details to server through. 
 Responsibilities: Hybird mobile application developer responsible for project business logic, desgin UI and developement, analysts, requirements gathering, unit testing, documentation. Design, build, and maintain high performance, reusable, and reliable code. Identify and correct bottlenecks and fix bugs.
