@@ -6,8 +6,9 @@ Catalyst Store Insights is a powerful analytics platform designed to help brands
 * Team Size: 1
 * React Native: Run on Android and iOS devices.
 * Language : JavaScript, typescript etc
-* https://play.google.com/store/apps/details?id=com.catalyststoreinsights&hl=en_IN
-  
+* Android : https://play.google.com/store/apps/details?id=com.catalyststoreinsights&hl=en_IN
+* iOS : App Publish Enterprise Level.
+    
 ### Jiobp NOC Mobile App [Jiobp, DAKC]
 This Google Flutter hybrid mobile application. This application integrated with Jiobp NOC server. This application used for the visualize,access data through centerlized Jiobp NOC server APIs using different types of users. There data visualize resional, national, state and RO levels, also user filter data and drill-down particular RO levels. Hybird mobile application developer responsible for project business logic, desgin UI and developement, analysts, requirements gathering, unit testing, documentation. Design, build, and maintain high performance, reusable, and reliable code. Identify and correct bottlenecks and fix bugs. 
 * Team Size: 2
